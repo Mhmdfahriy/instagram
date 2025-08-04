@@ -25,7 +25,7 @@ export default function HomeScreen() {
         ))}
       </ScrollView>
 
-      {/* PostCard bisa di bawah story */}
+      
       <PostCard />
     </View>
   );
