@@ -9,4 +9,8 @@ const Like = () => {
   )
 }
 
+<<<<<<< HEAD
 export default Like
+=======
+export default Like
+>>>>>>> a1e319f (update)

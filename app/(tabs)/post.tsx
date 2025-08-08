@@ -9,4 +9,8 @@ const Post = () => {
   )
 }
 
+<<<<<<< HEAD
 export default Post
+=======
+export default Post
+>>>>>>> a1e319f (update)

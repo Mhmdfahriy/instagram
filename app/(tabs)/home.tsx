@@ -25,7 +25,11 @@ export default function HomeScreen() {
         ))}
       </ScrollView>
 
+<<<<<<< HEAD
       
+=======
+      {/* PostCard bisa di bawah story */}
+>>>>>>> a1e319f (update)
       <PostCard />
     </View>
   );

@@ -9,4 +9,8 @@ const Search = () => {
   )
 }
 
+<<<<<<< HEAD
 export default Search
+=======
+export default Search
+>>>>>>> a1e319f (update)

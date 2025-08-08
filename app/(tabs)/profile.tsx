@@ -9,4 +9,8 @@ const Profile = () => {
   )
 }
 
+<<<<<<< HEAD
 export default Profile
+=======
+export default Profile
+>>>>>>> a1e319f (update)
